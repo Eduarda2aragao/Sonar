@@ -3,10 +3,11 @@
 
 CRUD API Users - GitHub
 
-🎯 Objetivo da Atividade
+  🎯 Objetivo da Atividade
 
 Este projeto tem como finalidade realizar a análise de qualidade de código utilizando o SonarQube e o SonarScanner em um projeto JavaScript, corrigindo problemas identificados e documentando os resultados.
-📦 Tecnologias Utilizadas
+
+  📦 Tecnologias Utilizadas
 
 Node.js
 
